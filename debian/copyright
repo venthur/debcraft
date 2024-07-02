@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Debcraft
+Upstream-Contact: <preferred name and address to reach the upstream project>
+Source: https://salsa.debian.org/otto/debcraft
+
+Files:     *
+Copyright: 2023-2024 Otto Kekäläinen <otto@debian.org>
+License:   GPL-v3+
+ On Debian based systems the full text of the GNU General Public License version
+ 3 can be found in the file `/usr/share/common-licenses/GPL-3`.
